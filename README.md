@@ -15,7 +15,7 @@ The goal is to score a maximum of point
 
 ## Launching the code
 Open your terminal and execute the command below
-- if you clone the game from github :
+- Clone the game from github :
 ```
 cd ~/github/Travelling-salesman-problem
 ./make
