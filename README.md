@@ -19,5 +19,5 @@ Open your terminal and execute the command below
 ```
 cd ~/github/Travelling-salesman-problem
 ./make
-./server <Latitude of the departure point> <Longitude of the departure point>
+./site <Latitude of the departure point> <Longitude of the departure point>
 ```
